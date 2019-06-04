@@ -1,11 +1,8 @@
 # demarretastory06
+je fais une modification
+mes nouvelles modifications!!!!
+voila les miennes!!!
+Branch Radhwa!!!
+je veux plus de modif !!!!
 
-<<<<<<< HEAD
-HELLO WORLD!!§§
-
-Deuxieme changement 
-
-=======
 readme de la branche dev
-je rajoutte un commentaire vive Anaelle ! 
-
