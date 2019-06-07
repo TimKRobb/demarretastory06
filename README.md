@@ -18,6 +18,13 @@ readme de la branche dev
 =======
 HELLO WORLD!!§§
 
+<<<<<<< HEAD
 Deuxieme changement 
 
 >>>>>>> origin/Anthony
+=======
+OK LA VERSION DE TIM
+LE PREMIER QUI BIDOUILLE JE LE MERGE SEVERE
+
+Changement de Younes 
+>>>>>>> origin/Younes
