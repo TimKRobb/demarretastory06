@@ -6,6 +6,9 @@
 .navbar-brand {
     max-height:50px;
 }
+iframe {
+    width:540px; height:380px;
+}
 header .row {
     margin-top: 50px;
     background-image: url(../img/banniere.png);
@@ -39,6 +42,9 @@ header .msg {
     header .msg {
         display:none;
     }
+    iframe {
+    width:440px; height:280px;
+}
 }
 
 #presentation {
@@ -182,6 +188,9 @@ header .msg {
     .buttonInscription{
         left:30px;
     
+}
+    iframe {
+    width:90%; height:280px;
 }
 }
 
