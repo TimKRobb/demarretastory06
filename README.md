@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 test branche dim sur dev
 >>>>>>> dimitri
@@ -14,3 +15,9 @@ je veux plus de modif !!!!
 
 readme de la branche dev
 >>>>>>> origin/isaBranche
+=======
+HELLO WORLD!!§§
+
+Deuxieme changement 
+
+>>>>>>> origin/Anthony
