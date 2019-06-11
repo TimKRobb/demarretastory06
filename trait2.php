@@ -34,6 +34,7 @@ if(!empty($_POST)){
 	if(empty($erreurs)){
 		$res = insererUtilisateur($_POST);
 		header("Location: index.html");
+		exit();
 	}
 }
  

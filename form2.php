@@ -57,10 +57,10 @@ include("trait2.php");
                     <div class="form-group col-md-4">
                       <label for="State">Quel est votre statut</label>
                       <select id="State" class="form-control" required="" name="State">Statut
-                         <option value="scolarisé">Scolarisé</option>
-                         <option value="demandeur d'emlpoi">Demandeur d'emploi</option>
-                         <option value="En emlpoi">en Emploi</option>
-                         <option value="Autres">Autres</option>
+                         <option value="scolarise">Scolarisé</option>
+                         <option value="demandeurdemploi">Demandeur d'emploi</option>
+                         <option value="enemploi">en Emploi</option>
+                         <option value="autres">Autres</option>
                       </select>
                     </div>
                     <div class="form-group col-md-4">
