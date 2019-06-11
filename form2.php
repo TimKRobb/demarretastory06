@@ -1,6 +1,6 @@
 <?php
 
-include("trait.php");
+include("trait2.php");
 
 ?>
 <!DOCTYPE html>

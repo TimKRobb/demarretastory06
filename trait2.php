@@ -1,5 +1,5 @@
 <?php 
-include("bddformDTS.php");
+include("bddformDTS2.php");
 ?>
 <?php
 $prenom="";
