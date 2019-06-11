@@ -15,7 +15,7 @@ include("trait2.php");
 			</head>
 	<body>
 		<section class="contenair-fluide m-3">
-		   <form action="formulaire2.php" method="POST">
+		   <form action="" method="POST">
 		   		<fieldset>
 		   			<legend class="text-center m-2" style="color:blue">INSCRIVEZ-VOUS</legend>
              <?php

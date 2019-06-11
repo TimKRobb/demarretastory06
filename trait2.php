@@ -33,7 +33,7 @@ if(!empty($_POST)){
 	$erreurs=verifyerreur($_POST);
 	if(empty($erreurs)){
 		$res = insererUtilisateur($_POST);
-		header("Location: principal.html");
+		header("Location: index.html");
 	}
 }
  
