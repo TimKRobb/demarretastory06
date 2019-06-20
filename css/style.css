@@ -62,15 +62,28 @@ header .msg {
     border-radius:3px;
 }
 #presentation .media:hover {
-    background-color:#c5b4b4;
+    background-color:#ded5d5;
  /*   cursor:pointer; */
 }
 
+#demarretastoryLogo{
+    width: 25%;
+    min-width: 250px;
+}
 .parcoursEtudiant {
     background-color:#d3dae4;
     min-height:calc(100vh - 50px);
 
 }
+.partenairesfi{
+    background-color:#d3dae4;
+}
+
+.parcoursEtudiant img{
+    width: 100%;
+    /*left: calc(62%/2);*/
+}
+
 .parcoursEtudiant span{
     font-size:5rem;
     color:#17a2b8;
@@ -80,6 +93,7 @@ header .msg {
     color:#888;
 }
 #parcours{
+    margin-top: 150px;
        }
 .fondSchema {
     
@@ -220,7 +234,7 @@ header .msg {
 
 
    #stories {
-        margin-top: 150px;
+        
     }
         
  
@@ -281,4 +295,15 @@ header .msg {
     font-weight: 300;
     text-shadow: none;
     opacity: 1;
+}
+#partenaires > div {
+    position: relative;
+}
+.itemCCI{
+    position: absolute;
+    z-index: 5;
+    /*left:-webkit-calc((100%-110px)/2);
+    left:-moz-calc((100%-110px)/2);*/
+    left: calc(50% - 65px);
+    top: 35%;
 }

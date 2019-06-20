@@ -1,7 +1,6 @@
 <?php 
 include("bddformDTS2.php");
-?>
-<?php
+
 $prenom="";
 $nom="";
 $phone="";
@@ -16,6 +15,7 @@ $projet="";
 $diplome="";
 $connaissance="";
 if(!empty($_POST)){
+
 	$prenom=$_POST['prenom'];
 	$nom=$_POST['nom'];
 	$phone=$_POST['phone'];
